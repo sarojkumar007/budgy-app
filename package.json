@@ -1,0 +1,17 @@
+{
+  "name": "budgy-app",
+  "version": "1.0.1",
+  "description": "A simple app that keeps track of your expenses",
+  "main": "app.js",
+  "scripts": {
+    "start": "live-server"
+  },
+  "dependencies": {
+    "live-server" : "^1.2.1"
+  },
+  "keywords": [
+    "budgy"
+  ],
+  "author": "Saroj Kumar Sahoo",
+  "license": "MIT"
+}
