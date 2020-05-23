@@ -12,6 +12,10 @@
   "keywords": [
     "budgy"
   ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sarojkumar007/budgy-app.git"
+  },
   "author": "Saroj Kumar Sahoo",
   "license": "MIT"
 }
